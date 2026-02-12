@@ -1,0 +1,5 @@
+INSERT INTO expenses (date, category, amount) VALUES
+('2026-02-10', 'Food', 120.50),
+('2026-02-10', 'Travel', 60.00),
+('2026-02-11', 'Shopping', 300.75),
+('2026-02-12', 'Food', 150.00);
